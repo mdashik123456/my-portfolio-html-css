@@ -59,7 +59,7 @@ section{
     border-image-slice: 1;
 }
 .skills-images{
-    height: 100px;
     width: 100px;
+    height: 100px;
     border-radius: 10%;
 }
